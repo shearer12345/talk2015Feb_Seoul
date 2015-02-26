@@ -1,5 +1,5 @@
-#talkQUT2014Sept
+#talk2015Feb_Seoul
 
-talk given to EECS at QUT (Australia) 2014 September
+talk given at New Potentials of Gamification in the App Market in Seoul, Koera in February 2015
 
-hosted on github.io at http://shearer12345.github.io/talkQUT2014_Sept/
+hosted on github.io at http://shearer12345.github.io/talk2015Feb_Seoul
