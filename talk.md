@@ -1,13 +1,33 @@
-##TITLE
-###AUTHOR - TITLE - Feb 26th 2015
+##Creative Play in Public Spaces
 
-<img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2"  height="400">
+###Feb 26th 2015
+
+<img src="assets/liscLogo.png" alt="liscLogo.png" height="400">
+
+
+
+#Who am I
+
+
+##Who am I
+
+- Dr. John Shearer
+- Senior Lecturer in Games Computing
+- Programme Leader Games Computing
+- Lincoln Social Computing Research Centre
+- University of Lincoln
+
+<img src="assets/liscLogo.png" alt="liscLogo.png" height="200">
+<img src="assets/UoL-logo-general-use-white-background.jpg" alt="UoL-logo" height="200">
+<img src="assets/exhibitForgeLogo.png" alt="exhibitForgeLogo.png" height="100">
+
 
 
 ##Links
 
 - http://shearer12345.github.io/???
 - source: https://github.com/shearer12345/???
+
 
 
 ##Structure
@@ -58,8 +78,12 @@
 
 <img src="assets/eyeResonator.jpg" alt="EyeResonator"  height="300">
 
+
 - interactive art ecosystem that engages viewers by responding to their eye movements
 - detects behavioural changes of the person and subsequently coaxes viewers' self-observation.
 > about the meditative experience ... the technology is simply a tool for creating this
 
 
+#Extra
+
+<img src="assets/aquariumcforlife2.jpg" alt="aquariumcforlife2"  height="200">
