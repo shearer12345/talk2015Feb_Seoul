@@ -195,6 +195,12 @@ Bespoke interactive exhibits designed in collaboration with your domain experts.
   - saltstack, puppet
 
 
+##Great North Museum
+
+<img src="assets/Great-North-Museum-Hancock.jpg" alt="Great-North-Museum-Hancock" height="300">
+<img src="assets/gnm_gallery1.jpg" alt="gnm_gallery1" height="300">
+
+
 
 #Future
 
@@ -209,6 +215,7 @@ Bespoke interactive exhibits designed in collaboration with your domain experts.
 - server-side data recording
 - server-side configuration of studies
 - embedded questionnaires and logging
+- clinical validation
 
 
 ##Droplets
@@ -222,6 +229,8 @@ Bespoke interactive exhibits designed in collaboration with your domain experts.
 
 - using iBeacons to enhance museum experiences
   - at Royal Albert Memorial Museum, Exeter, UK
+
+<img src="assets/ramm.png" alt="ramm" height="400">
 
 
 ##Playground Games
@@ -242,6 +251,19 @@ Bespoke interactive exhibits designed in collaboration with your domain experts.
 - Supporting indie-games community
 - Supporting startup games companies
 - Facilitating networking and learning
+
+
+##Games in Public Spaces
+
+<img src="assets/monument.jpg" alt="monument.jpg" height="400">
+
+- source = www.graeme-peacock.com
+
+
+##British HCI
+
+http://hci2015.bcs.org/
+<img src="assets/bhci2015.png" alt="bhci2015.png" height="400">
 
 
 ##Collaborations with YOU
