@@ -65,7 +65,9 @@
   - BSc (Hons), MComp
   - Full-time:  3-4 Years
   - ~200 Undergraduate Students
-- Enthusiastic for Taught Course Relationships with Korea
+- Enthusiastic for relationships with Korea:
+  - Taught programmes
+  - Research programmes
 
 
 ##Modules
